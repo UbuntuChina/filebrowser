@@ -1,6 +1,6 @@
-How to install the app on your phone:
+Follow the following steps install the app on your phone?
 
-1) create a named script "d", and it is content is as follows:
+1) create a named script "d", and it's content is as follows:
 
 #!/bin/bash
 adb push $1 /tmp
