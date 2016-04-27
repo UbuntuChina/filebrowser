@@ -19,6 +19,3 @@ $d filebrowser.xiaoguo_0.2_armhf.click
 
 Then the above command will install the .click file onto your phone
 
-Known issues:
-
-1) If the syslog file is too big (for example a few mega bytes), the app may exit
